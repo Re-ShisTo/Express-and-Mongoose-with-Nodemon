@@ -1,0 +1,47 @@
+{
+  "_id": {
+    "$oid": "6a4a51bf9770a681673d3fe6"
+  },
+  "city": "Rangamati",
+  "designation": "CEO",
+  "name": "Shisto Chakma",
+  "salary": "100000000"
+}
+{
+  "_id": {
+    "$oid": "6a4a52e89770a681673d3fea"
+  },
+  "city": "Bogura",
+  "designation": "COO",
+  "name": "Ashik",
+  "salary": "1000000"
+}
+{
+  "_id": {
+    "$oid": "6a4a53789770a681673d3feb"
+  },
+  "city": "Dhaka",
+  "designation": "CFO",
+  "name": "Shakib",
+  "salary": "100000"
+}
+{
+  "_id": {
+    "$oid": "6a4a539d9770a681673d3fec"
+  },
+  "city": "Dhaka",
+  "designation": "CTO",
+  "name": "Arka",
+  "salary": "10000"
+}
+{
+  "_id": {
+    "$oid": "6a4a54029770a681673d3fed"
+  },
+  "city": "Mehedi",
+  "designation": "CMO",
+  "name": "Mehedi",
+  "salary": "1000"
+}
+npx nodemon server.js
+npx mongoose ont equation of time interval
